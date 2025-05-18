@@ -66,6 +66,20 @@ I'm open to projects involving:
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  
+![AshanMadusanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshanMadusanka&show_icons=true&theme=tokyonight&hide_title=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AshanMadusanka&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshanMadusanka&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
 ### ⚡ Fun Fact
 
 I enjoy converting raw analog signals into meaningful data streams almost as much as I enjoy optimizing my coffee brew 🍵
