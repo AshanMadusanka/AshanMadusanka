@@ -43,7 +43,7 @@ I'm open to projects involving:
 
 - 📧 Email: `ashanhmadusanka@gmail.com`
 - 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ashan-m-b3031a104/)
+- 💼 LinkedIn: [Ashan Madusanka](https://www.linkedin.com/in/ashan-m-b3031a104/)
 
 ---
 
