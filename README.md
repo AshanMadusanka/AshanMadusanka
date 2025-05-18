@@ -3,6 +3,7 @@
 💻 I'm an **Embedded Systems Developer** with a deep passion for creating efficient, scalable, and robust IoT solutions. From low-level hardware control to high-level protocol design, I love turning electronic circuits into smart, connected systems.
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=AshanMadusanka)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🚀 What I'm Passionate About
 
