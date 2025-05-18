@@ -50,27 +50,34 @@ I'm open to projects involving:
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <!-- Core Languages & IDEs -->
+  <!-- Programming & IDEs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" width="50" height="50" alt="CLion"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-
-  <!-- Microcontrollers & Embedded Platforms -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50" alt="Arduino"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PlatformIO_Logo.svg/512px-PlatformIO_Logo.svg.png" width="50" height="50" alt="PlatformIO"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stmicroelectronics_logo.svg/2560px-Stmicroelectronics_logo.svg.png" width="70" height="40" alt="STM32CubeIDE"/>
-  <img src="https://www.freertos.org/images/FreeRTOS_logo_small.png" width="60" height="40" alt="FreeRTOS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PlatformIO_Logo.svg" width="50" height="50" alt="PlatformIO"/>
+
+  <!-- STM32CubeIDE -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stmicroelectronics_logo.svg/320px-Stmicroelectronics_logo.svg.png" width="60" height="35" alt="STM32CubeIDE"/>
+
+  <!-- FreeRTOS -->
+  <img src="https://www.freertos.org/images/FreeRTOS_logo_small.png" width="60" height="35" alt="FreeRTOS"/>
+
+  <!-- MQTT (Eclipse Mosquitto) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Mosquitto-project-logo.svg" width="50" height="50" alt="MQTT"/>
 
-  <!-- Circuit Design -->
+  <!-- KiCad -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" width="50" height="50" alt="KiCad"/>
+
+  <!-- Altium Designer -->
   <img src="https://seeklogo.com/images/A/altium-designer-logo-792F7B7DDF-seeklogo.com.png" width="50" height="50" alt="Altium Designer"/>
 
-  <!-- 3D CAD -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SolidWorks_Logo.svg/768px-SolidWorks_Logo.svg.png" width="50" height="50" alt="SolidWorks"/>
+  <!-- SolidWorks -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/SolidWorks_Logo.svg" width="50" height="50" alt="SolidWorks"/>
 </p>
+
 
 
 ---
