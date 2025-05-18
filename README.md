@@ -26,7 +26,7 @@
 
 - RTOS and multitasking for ESP32
 - Advanced analog design and power filtering
-- Scientific data representation in constrained systems
+- 
 
 ---
 
@@ -66,7 +66,7 @@ I'm open to projects involving:
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_freeRTOS.png" width="82" height="30" alt="FreeRTOS"/>
 
   <!-- MQTT (Eclipse Mosquitto) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mqtt-hor.svg/768px-Mqtt-hor.svg.png" width="51" height="13" alt="MQTT"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mqtt-hor.svg/768px-Mqtt-hor.svg.png" width="102" height="26" alt="MQTT"/>
 
   <!-- Altium Designer -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Altium_Designer_logo.png" width="100" height="45" alt="Altium Designer"/>
