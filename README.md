@@ -72,10 +72,10 @@ I'm open to projects involving:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" width="50" height="50" alt="KiCad"/>
 
   <!-- Altium Designer -->
-  <img src="https://seeklogo.com/images/A/altium-designer-logo-792F7B7DDF-seeklogo.com.png" width="50" height="50" alt="Altium Designer"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Altium_Designer_logo.png" width="50" height="50" alt="Altium Designer"/>
 
   <!-- SolidWorks -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/SolidWorks_Logo.svg" width="50" height="50" alt="SolidWorks"/>
+  <img src="https://brandeps.com/logo-download/S/SolidWorks-logo-vector-01.svg" width="50" height="50" alt="SolidWorks"/>
 </p>
 
 
