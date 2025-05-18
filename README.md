@@ -60,13 +60,13 @@ I'm open to projects involving:
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PlatformIO_Logo.svg" width="50" height="50" alt="PlatformIO"/>
 
   <!-- STM32CubeIDE -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stmicroelectronics_logo.svg/320px-Stmicroelectronics_logo.svg.png" width="60" height="35" alt="STM32CubeIDE"/>
+  <img src="https://wiki.st.com/stm32mpu/nsfr_img_auth.php/c/c5/ST_logo.png" width="46" height="26" alt="STM32CubeIDE"/>
 
   <!-- FreeRTOS -->
-  <img src="https://www.freertos.org/images/FreeRTOS_logo_small.png" width="60" height="35" alt="FreeRTOS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_freeRTOS.png" width="41" height="15" alt="FreeRTOS"/>
 
   <!-- MQTT (Eclipse Mosquitto) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Mosquitto-project-logo.svg" width="50" height="50" alt="MQTT"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mqtt-hor.svg/768px-Mqtt-hor.svg.png" width="51" height="13" alt="MQTT"/>
 
   <!-- KiCad -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" width="50" height="50" alt="KiCad"/>
