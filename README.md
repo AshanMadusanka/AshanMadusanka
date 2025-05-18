@@ -75,7 +75,7 @@ I'm open to projects involving:
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Altium_Designer_logo.png" width="100" height="45" alt="Altium Designer"/>
 
   <!-- SolidWorks -->
-  <img src="https://www.pngwing.com/en/free-png-nmikn" width="50" height="50" alt="SolidWorks"/>
+  <img src="https://img.icons8.com/color/48/solidworks.png" width="50" height="50" alt="SolidWorks"/>
 </p>
 
 
