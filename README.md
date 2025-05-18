@@ -49,20 +49,17 @@ I'm open to projects involving:
 
 ### 🧰 Tech Toolbox
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat&logo=espressif)
-![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics)
-![PlatformIO](https://img.shields.io/badge/-PlatformIO-orange?style=flat&logo=platformio)
-![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-02569B?style=flat&logo=stmicroelectronics)
-![CLion](https://img.shields.io/badge/-CLion-000000?style=flat&logo=clion)
-![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat&logo=eclipse-mosquitto)
-![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-FF9800?style=flat)
-![TFT LCD](https://img.shields.io/badge/-TFT%20LCD-7B68EE?style=flat)
-![KiCAD](https://img.shields.io/badge/-KiCAD-0033A0?style=flat&logo=kicad)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" width="50" height="50" alt="CLion"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50" alt="Arduino"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/platformio/platformio-original.svg" width="50" height="50" alt="PlatformIO"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" width="50" height="50" alt="KiCad"/>
+</p>
+
 
 ---
 
