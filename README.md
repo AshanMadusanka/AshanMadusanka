@@ -57,19 +57,16 @@ I'm open to projects involving:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50" alt="Arduino"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PlatformIO_Logo.svg" width="50" height="50" alt="PlatformIO"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg" width="50" height="50" alt="PlatformIO"/>
 
   <!-- STM32CubeIDE -->
   <img src="https://wiki.st.com/stm32mpu/nsfr_img_auth.php/c/c5/ST_logo.png" width="46" height="26" alt="STM32CubeIDE"/>
 
   <!-- FreeRTOS -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_freeRTOS.png" width="41" height="15" alt="FreeRTOS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_freeRTOS.png" width="82" height="30" alt="FreeRTOS"/>
 
   <!-- MQTT (Eclipse Mosquitto) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mqtt-hor.svg/768px-Mqtt-hor.svg.png" width="51" height="13" alt="MQTT"/>
-
-  <!-- KiCad -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" width="50" height="50" alt="KiCad"/>
 
   <!-- Altium Designer -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Altium_Designer_logo.png" width="100" height="45" alt="Altium Designer"/>
