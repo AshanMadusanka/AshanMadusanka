@@ -41,9 +41,9 @@ I'm open to projects involving:
 
 ### 📫 Reach Me At
 
-- 📧 Email: `your.email@example.com`
+- 📧 Email: `ashanhmadusanka@gmail.com`
 - 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ashan-m-b3031a104/)
 
 ---
 
